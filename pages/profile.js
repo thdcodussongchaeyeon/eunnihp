@@ -7,7 +7,7 @@ export default function profile() {
       <div className="flex flex-row justify-between">
         <div className="basis-1/2">
           <p>
-            <b>Name: 최경은 |•'-'•)و✧</b>
+            <b>Name: 최경은</b>
           </p>
           <p>
             <b>Tel: 010-3959-4910</b>
