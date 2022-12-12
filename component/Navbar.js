@@ -18,7 +18,7 @@ export default function Navbar() {
           <a>갱쓰여행</a>
         </Link>
         <Link href="/Team">
-          <a>갱쓰가사음=</a>
+          <a>갱쓰팀플</a>
         </Link>
       </div>
     </div>

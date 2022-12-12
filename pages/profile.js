@@ -49,6 +49,11 @@ export default function profile() {
               <b>Notion</b>
             </a>
           </p>
+          <p>
+            <a href="https://ping-pongpong.vercel.app/">
+              <b>PingPongPongPing</b>
+            </a>
+          </p>
         </div>
         <div className="basis-1/2">
           <Image
