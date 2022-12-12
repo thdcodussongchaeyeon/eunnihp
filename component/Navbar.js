@@ -14,11 +14,11 @@ export default function Navbar() {
         <Link href="/hobby">
           <a>갱쓰 취미 ⌯'▾'⌯</a>
         </Link>
-        <Link href="/love">
-          <a>갱쓰가사음</a>
-        </Link>
         <Link href="/travel">
           <a>갱쓰여행</a>
+        </Link>
+        <Link href="/Team">
+          <a></a>
         </Link>
       </div>
     </div>
