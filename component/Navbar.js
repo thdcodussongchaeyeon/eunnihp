@@ -17,9 +17,6 @@ export default function Navbar() {
         <Link href="/travel">
           <a>갱쓰여행</a>
         </Link>
-        <Link href="/Team">
-          <a>갱쓰팀플</a>
-        </Link>
       </div>
     </div>
   )
