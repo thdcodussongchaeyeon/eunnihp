@@ -6,7 +6,7 @@ export default function HobbyPage() {
     <div className="mx-auto max-w-screen-md bg-white-100">
       <div className="flex flex-row justify-between">
         <div className="basis-1/4">
-          <Image src="/img/musical.jpg" width={500} height={500}></Image>
+          <Image src="/img/musical.JPG" width={500} height={500}></Image>
           <p>
             <b>Musical</b>
           </p>
@@ -22,7 +22,7 @@ export default function HobbyPage() {
           </p>
         </div>
         <div className="basis-1/4">
-          <Image src="/img/music.jpg" width={500} height={500}></Image>
+          <Image src="/img/music.JPG" width={500} height={500}></Image>
           <p>
             <b>Music is my life ᖰ(˙Ⱉ˙)ᖳ</b>
           </p>
@@ -59,7 +59,7 @@ export default function HobbyPage() {
           </p>
         </div>
         <div className="basis-1/4">
-          <Image src="/img/webtoon.jpg" width={500} height={500}></Image>
+          <Image src="/img/webtoon.JPG" width={500} height={500}></Image>
           <p>
             <b>Webtoon</b>
           </p>
